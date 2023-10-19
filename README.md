@@ -5,9 +5,10 @@ Purpose is to prototype a quick hello-world message passing from python to c++
 
 ### How build works
 
-```mermaid LR
-CMake --> Ninja
-Ninja --> Install
+```mermaid 
+graph LR;
+  CMake --> Ninja;
+  Ninja --> Install;
 ```
 
 Steps if you're not using an IDE (assuming you're in the project dir):
