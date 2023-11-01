@@ -1,6 +1,6 @@
 #ifndef SAYHELLO_HELLO_H
 #define SAYHELLO_HELLO_H
 
-void hello();
+//void hello(); <-- DO NOT DECLARE
 
 #endif //SAYHELLO_HELLO_H
