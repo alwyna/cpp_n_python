@@ -118,4 +118,3 @@ Output
   * Here is how you can pass classes back and forth https://stackoverflow.com/questions/19198872/how-do-i-return-objects-from-a-c-function-with-ctypes
 * Callback hint use `#include "python.h"` and `PyEval_CallObject(py_compare_func,arglist);` see https://code.activestate.com/recipes/65210-implementing-c-function-callbacks-using-python/ and https://sceweb.sce.uhcl.edu/helm/WEBPAGE-Python/documentation/python_tutorial/ext/callingPython.html
 * Chaining lib dependencies with CMake https://stackoverflow.com/questions/39598323/how-to-properly-link-libraries-with-cmake
-* 
